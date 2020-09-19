@@ -12,6 +12,8 @@
     "egg-router-group": "^1.1.0",
     "egg-scripts": "^2.11.0",
     "egg-validate": "^2.0.2",
+    "fs-extra": "^9.0.1",
+    "nodemailer": "^6.4.11",
     "svg-captcha": "^1.4.0"
   },
   "devDependencies": {
@@ -23,6 +25,7 @@
     "eslint": "^5.13.0",
     "eslint-config-egg": "^7.1.0",
     "husky": "^4.3.0",
+    "jsonwebtoken": "^8.5.1",
     "md5": "^2.3.0"
   },
   "engines": {
